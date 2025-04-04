@@ -1,6 +1,6 @@
 # quarkus-reprod-mockito-cleanup
 
-This is a reproduction project for a Quarkus issue related to Mockito cleanup.
+This is a reproduction project https://github.com/quarkusio/quarkus/issues/47179
 
 ## Steps to reproduce the Issue
 1. Run `DummyServiceMockTest`
